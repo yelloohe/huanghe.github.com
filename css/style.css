@@ -21,7 +21,7 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: url(../images/header-bg.jpg) no-repeat center top;
+    background: #a0a0a0;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -44,7 +44,7 @@ body h1,h2,h3,h4,h5,h6{
 	 color:#fff;
 }
 .logo span {
-    border: 7px solid #00a78e;
+    //border: 7px solid #00a78e;
     padding: 0px 14px;
     font-size: 1.2em;
     color: #fff;
@@ -1188,7 +1188,7 @@ span.border.two:after {
 }
 /*-- footer --*/
 .footer {
-    background: url(../images/contact.jpeg) no-repeat center top;
+    background: #a0a0a0;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
